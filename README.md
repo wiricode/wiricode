@@ -1,6 +1,6 @@
 
 
-# Languages knowledge
+# Programming languages
 C
 # Planning to study
 Java, Python
