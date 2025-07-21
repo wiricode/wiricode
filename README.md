@@ -1,9 +1,9 @@
 
 
 # Programming languages
-C, Power FX
+C, Power FX, React Native, Flutter
 # Planning to study
-Java, Python, Flutter
+Java, Python
 
 # 3D Modelling apps known
 Blender and BlockBench.
