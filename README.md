@@ -1,7 +1,9 @@
 
 
 # Programming languages
-C, Power FX, React Native, Flutter
+C, Power FX
+# In progress
+Dart
 # Planning to study
 Java, Python, Unity, Unreal Engine
 
