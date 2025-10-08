@@ -7,7 +7,7 @@ Dart
 # Planning to study
 Java, Python, Unity, Unreal Engine
 
-# 3D Modelling apps known
+# 3D Modelling apps
 Blender and BlockBench.
 
 # Models created in blockbench
