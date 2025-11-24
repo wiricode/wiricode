@@ -1,9 +1,9 @@
 
 
 # Programming languages
-C, Power FX
+C, Power FX, SQL
 # In progress
-Dart
+Dart, PostgreSQL,
 # Planning to study
 Java, Python, Unity, Unreal Engine
 
