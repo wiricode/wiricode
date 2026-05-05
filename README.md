@@ -3,9 +3,9 @@
 # Programming languages
 C, Power FX, SQL
 # In progress
-Dart, PostgreSQL,
+Dart, PostgreSQL, Python
 # Planning to study
-Java, Python, Unity, Unreal Engine
+Java, Unity, Unreal Engine
 
 # 3D Modelling apps
 Blender and BlockBench.
